@@ -4,7 +4,7 @@ from PIL import Image
 import pytesseract
 import google.generativeai as genai
 from io import BytesIO
-from bson import ObjectId
+
 
 genai.configure(api_key="OMG LOL")
 
